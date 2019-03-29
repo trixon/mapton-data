@@ -1,0 +1,20 @@
+[
+    {
+        "description": "",
+        "enabled": true,
+        "layers": [
+            "Historiska ortofoton, 1960 : Historiska ortofoton"
+        ],
+        "name": "Swe LM Orto 1960",
+        "supplier": "Lantmäteriet"
+    },
+    {
+        "description": "",
+        "enabled": true,
+        "layers": [
+            "Historiska ortofoton, 1975 : Historiska ortofoton"
+        ],
+        "name": "Swe LM Orto 1975",
+        "supplier": "Lantmäteriet"
+    }
+]
