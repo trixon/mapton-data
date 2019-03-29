@@ -5,7 +5,10 @@
         "layers": [
             "Historiska ortofoton, 1960 : Historiska ortofoton"
         ],
-        "name": "Swe LM Orto 1960",
+        "name": {
+            "": "Swe LM Ortho 1960",
+            "sv": "Sve LM Orto 1960"
+        },
         "supplier": "Lantmäteriet"
     },
     {
@@ -14,7 +17,10 @@
         "layers": [
             "Historiska ortofoton, 1975 : Historiska ortofoton"
         ],
-        "name": "Swe LM Orto 1975",
+        "name": {
+            "": "Swe LM Ortho 1975",
+            "sv": "Sve LM Orto 1975"
+        },
         "supplier": "Lantmäteriet"
     }
 ]
