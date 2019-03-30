@@ -3,7 +3,7 @@
         "description": "",
         "enabled": true,
         "layers": [
-            "Historiska ortofoton, 1960 : Historiska ortofoton"
+            "se.lm.hist_orto_60"
         ],
         "name": {
             "": "Swe LM Ortho 1960",
@@ -15,12 +15,109 @@
         "description": "",
         "enabled": true,
         "layers": [
-            "Historiska ortofoton, 1975 : Historiska ortofoton"
+            "se.lm.hist_orto_75"
         ],
         "name": {
             "": "Swe LM Ortho 1975",
             "sv": "Sve LM Orto 1975"
         },
         "supplier": "Lantmäteriet"
+    },
+    {
+        "description": "",
+        "enabled": true,
+        "layers": [
+            "at.eox.coastline",
+            "at.eox.hydrography"
+        ],
+        "name": {
+            "": "Coastline & Hydrography",
+            "sv": "Kustlinje & hydrografi"
+        },
+        "supplier": "EOX"
+    },
+    {
+        "description": "",
+        "enabled": true,
+        "layers": [
+            "at.eox.osm"
+        ],
+        "name": {
+            "": "OpenStreetMap"
+        },
+        "supplier": "EOX"
+    },
+    {
+        "description": "",
+        "enabled": true,
+        "layers": [
+            "at.eox.s2cloudless-2018"
+        ],
+        "name": {
+            "": "Satellite, Sentinel-2",
+            "sv": "Satellit, Sentinel-2"
+        },
+        "supplier": "EOX & ESA"
+    },
+    {
+        "description": "",
+        "enabled": true,
+        "layers": [
+            "at.eox.terrain"
+        ],
+        "name": {
+            "": "Terrain",
+            "sv": "Terräng"
+        },
+        "supplier": "EOX & ESA"
+    },
+    {
+        "description": "",
+        "enabled": true,
+        "layers": [
+            "at.eox.terrain-light"
+        ],
+        "name": {
+            "": "Terrain (light)",
+            "sv": "Terräng (ljus)"
+        },
+        "supplier": "EOX & ESA"
+    },
+    {
+        "description": "",
+        "enabled": true,
+        "layers": [
+            "at.eox.blackmarble"
+        ],
+        "name": {
+            "": "Earth by night",
+            "sv": "Jorden på natten"
+        },
+        "supplier": "EOX & ESA"
+    },
+    {
+        "description": "",
+        "enabled": true,
+        "layers": [
+            "at.eox.streets",
+            "at.eox.s2cloudless-2018"
+        ],
+        "name": {
+            "": "Satellite & Street, Sentinel-2",
+            "sv": "Satellit & väg, Sentinel-2"
+        },
+        "supplier": "EOX & ESA"
+    },
+    {
+        "description": "",
+        "enabled": true,
+        "layers": [
+            "gov.nasa.neo.uv"
+        ],
+        "name": {
+            "": "NEO UV Index",
+            "sv": "NEO UV-index"
+        },
+        "supplier": "NASA"
     }
 ]
