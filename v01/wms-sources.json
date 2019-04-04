@@ -11,11 +11,21 @@
     {
         "enabled": true,
         "layers": {
+            "orto025": "se.lm.orto_025",
+            "topowebbkartan": "se.lm.topoweb",
+            "topowebbkartan_nedtonad": "se.lm.topoweb_dim"
+        },
+        "name": "Lantmäteriet",
+        "url": "http://gis.swedgeo.se/geoserver/lantmateriet/wms?"
+    },
+    {
+        "enabled": true,
+        "layers": {
             "blackmarble": "at.eox.blackmarble",
             "coastline": "at.eox.coastline",
             "hydrography": "at.eox.hydrography",
             "osm": "at.eox.osm",
-            "s2cloudless-2018": "at.eox.s2cloudless-2018",
+            "s2cloudless-2018": "at.eox.s2cloudless",
             "streets": "at.eox.streets",
             "terrain": "at.eox.terrain",
             "terrain-light": "at.eox.terrain-light"
